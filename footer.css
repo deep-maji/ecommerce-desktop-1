@@ -1,0 +1,185 @@
+
+/* footer */
+
+footer {
+    margin-top: 100px;
+    width: 100%;
+    min-width: 1140px;
+    height: 488px;
+}
+
+#footer-logo {
+    height: 142px;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer-container {
+    width: 1050px;
+}
+
+#footer-row {
+    height: 58px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#navbar-brand p{
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.1px;
+    color: #252B42;
+}
+
+
+.footer-col-md-3 {
+    width: 236px;
+    height: 24px;
+}
+
+.social-media-class {
+    display: flex;
+    justify-content: center;
+}
+
+#social-media {
+    width: 112px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-media-icon img {
+    height: 24px;
+}
+
+#footer-line {
+    width: 1057px;
+    margin: auto;
+}
+
+#footer-details {
+    height: 272px;
+}
+
+#footer-details-container {
+    width: 1050px;
+    height: 270px;
+    margin: auto;
+}
+
+#footer-details-row {
+    width: 1041px;
+    height: 270px;
+    padding: 50px 0px;
+    display: flex;
+    gap: 30px;
+}
+
+.footer-details-col-md-2 {
+    width: 152px;
+}
+
+.footer-details-col-md-2 h5 {
+    line-height: 24px;
+    letter-spacing: 0.1px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #252B42;
+}
+
+.footer-details-col-md-2 .links {
+    font-size: 14px;
+    padding-top: 20px;
+    color: #737373;
+}
+
+#Business-link {
+    width: 160px;
+}
+
+.footer-details-col-md-4 {
+    width: 321px;
+    height: 131px;
+}
+
+.footer-details-col-md-4 h5{
+    padding-bottom: 20px;
+}
+
+#custom-form-group-subscribe {
+    height: 87px;
+}
+
+#custom-form-group-subscribe p {
+    line-height: 28px;
+    letter-spacing: 0.2px;
+    font-size: 12px;
+    color: #737373;
+    width: 155px;
+    height: 28px;
+    padding-top: 10px;
+}
+
+#input-group {
+    width: 320px;
+    height: 58px;
+    display: flex;
+}
+
+#input-group input {
+    background-color: #E6E6E6;
+    width: 321px;
+    border: 0px;
+    padding-left: 20px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+#input-group button {
+    background-color: #23A6F0;
+    color: #FFFFFF;
+    border: 0px;
+    width: 117px;
+    height: 58px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#footer-last-details {
+    height: 74px;
+    background-color: #FAFAFA;
+}
+
+#footer-last-details-container {
+    width: 1050px;
+    height: 74px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+#footer-last-details-row {
+    width: 600px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.col-md-7 {
+    width: 600px;
+    height: 24px;
+}
+
+
+.col-md-7 p {
+    width: 350px;
+    height: 24px;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.2px;
+}
